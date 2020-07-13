@@ -1,5 +1,5 @@
-### Hi there 👋
-<img src="https://github.com/muskanvk/Muskanvk/master/copy-of-untitled.png">
+### नमस्ते, I'm Muskan  👩🏼‍💻
+<img src="https://github.com/muskanvk/Muskanvk/blob/master/Copy%20of%20Untitled.png">
 
 <!--
 **muskanvk/Muskanvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
